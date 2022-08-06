@@ -19,5 +19,5 @@ Downloading [SAP](https://en.wikipedia.org/wiki/SAP)'s online glossary
 1. ### [Glossary website](https://help.sap.com/glossary/)
 ![Imgur](https://imgur.com/7rvpMnY.jpg)
 
-2. ### Excel workbook with terms, definitions, and components
+2. ### `SAP glossary.xlsx`
 ![Imgur](https://imgur.com/EOY8EQ9.jpg)
