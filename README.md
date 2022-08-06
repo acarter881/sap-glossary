@@ -12,7 +12,8 @@ Downloading [SAP](https://en.wikipedia.org/wiki/SAP)'s online glossary
 
 ## Instructions
 1. Download `bearer.py` and `sap.py`
-2. Run `sap.py`
+2. Update `self.driver_path` variable in `bearer.py`
+3. Run `sap.py`
 
 ## Screenshots
 1. ### [Glossary website](https://help.sap.com/glossary/)
